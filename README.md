@@ -1,6 +1,6 @@
-# Udemy TypeScript Learning Projects
+# TypeScript Learning 
 
-This repository contains a collection of TypeScript practice projects and examples. The content is organized into separate modules for easier learning and practice.
+This repository contains a collection of TypeScript concepts and examples. The content is organized into separate modules for easier learning and practice.
 
 ## Overview
 
