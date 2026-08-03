@@ -2,9 +2,10 @@
   "name": "part2",
   "version": "1.0.0",
   "main": "index.ts",
+  "type": "module",
   "scripts": {
     "start": "bun dist/index.js",
-    "dev" : "npx tsc",
+    "dev": "npx tsc",
     "fast": "bun src/index.ts"
   },
   "keywords": [],
@@ -12,6 +13,9 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "typescript": "^5.9.3" 
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "axios": "^1.16.1"
   }
 }
